@@ -1,0 +1,14 @@
+{
+  "name": "learning-routing",
+  "version": "1.0.0",
+  "description": "A simple project utilizing Express meant to practice proper routing paradgims",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Cameron Steele (manosteele)",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.2"
+  }
+}
